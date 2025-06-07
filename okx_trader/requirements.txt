@@ -1,0 +1,6 @@
+# This file lists the Python dependencies for the OKX Trader application.
+# Add one dependency per line.
+# For example:
+# requests>=2.25.1
+# python-okx>=1.2.3
+okx-python-sdk-api
